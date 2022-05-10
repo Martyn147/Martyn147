@@ -1,16 +1,20 @@
-### Hi there 👋
 
-<!--
-**Martyn147/Martyn147** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Mi GitHub
 
-Here are some ideas to get you started:
+Hola, mi nombre es Martin Andres Rosero Bonilla 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## 🚀 Sobre Mi
+Soy Estudiente De La Escuela Politecnica Nacional de la carrera de "Tecnologia Superior en Desarrollo de software" 
+
+
+## Other Common Github Profile Sections
+👩‍💻 Acutalmente no me encuentro trabajando.
+
+🧠 Me encuentro en tercer semestre de carrera.
+
+📫 Puedes contactarme al siguiente numero: +593 995839208
+
+😄 xD
+
+
