@@ -3,25 +3,25 @@
 
 Hola, mi nombre es Martin Andres Rosero Bonilla
 
-Aqui podra encontrar una serie de trabajos que reflejan mi desempeño como desarrollodor de software,
-sin embargo, tambien cuento con conocimiento en el area de hardware.
+Aquí podrá encontrar una serie de trabajos que reflejan mi desempeño como desarrollador de software,
+sin embargo, también cuento con conocimiento en el área de hardware.
 
 
-## 🚀 Sobre Mi
-Soy Estudiente De La Escuela Politecnica Nacional de la carrera de "Tecnologia Superior en Desarrollo de software" 
+## 🚀 Sobre Mí
+Soy Estúdiente De La Escuela Politécnica Nacional de la carrera de "Tecnología Superior en Desarrollo de software" 
 
 
 ## Información
-👩‍💻 Acutalmente no me encuentro trabajando.
+👩‍💻 Actualmente no me encuentro trabajando.
 
-👨‍🎓 Titulo de Bachiller: Tecnico - De servicios Aplicaciones Informáticas
+👨‍🎓 Título de Bachiller: Técnico - De servicios Aplicaciones Informáticas
 
 🏫 Me encuentro en tercer semestre de carrera.
 
-📫 Puedes contactarme al siguiente numero: +593 995839208
+📫 Puedes contactarme al siguiente número: +593 995839208
 
 
-## Lenguajes de Programacion con conocimiento
+## Lenguajes de Programación con conocimiento
 🧠 C
 
 🧠 C++
@@ -31,7 +31,7 @@ Soy Estudiente De La Escuela Politecnica Nacional de la carrera de "Tecnologia S
 🧠 Python
 
 
-## Abilidades en desarrollo
+## Habilidades en desarrollo
 📚 HTML
 
 📚 CSS
@@ -40,15 +40,14 @@ Soy Estudiente De La Escuela Politecnica Nacional de la carrera de "Tecnologia S
 
 
 ## Experiencia en Software y Hardware
-📖 Reparacion y Evaluacion de PCs 💻
+📖 Reparación y Evaluación de PC 💻
 
-📖 Realiazacion de Respaldos 💻
+📖 Realización de Respaldos 💻
 
-📖 Instalacion de Sistemas Operativos 💻
+📖 Instalación de Sistemas Operativos 💻
 
-📖 Realizacion de Documentacion 💻
+📖 Realización de Documentación 💻
 
-📖 Bases de Datos con PowerDesigner y SQL server 💻
+📖 Bases de Datos con Power Designer y SQL server 💻
 
 📖 Paquete Microsoft 💻
-
