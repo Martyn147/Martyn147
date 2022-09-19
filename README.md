@@ -1,7 +1,10 @@
 
 # Mi GitHub
 
-Hola, mi nombre es Martin Andres Rosero Bonilla 
+Hola, mi nombre es Martin Andres Rosero Bonilla
+
+Aqui podra encontrar una serie de trabajos que reflejan mi desempeño como desarrollodor de software,
+sin embargo, tambien cuento con conocimiento en el area de hardware.
 
 
 ## 🚀 Sobre Mi
