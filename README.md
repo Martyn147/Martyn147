@@ -38,8 +38,12 @@ Soy Estúdiente De La Escuela Politécnica Nacional de la carrera de "Tecnologí
 
 📚 JavaScript
 
+📚 Diseño de Base de Datos
+
 
 ## Experiencia en Software y Hardware
+📖 Uso de GitHub 💻
+
 📖 Reparación y Evaluación de PC 💻
 
 📖 Realización de Respaldos 💻
